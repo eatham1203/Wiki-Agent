@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+ENV/
+.env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# MacOS system files
+.DS_Store
